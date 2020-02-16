@@ -16,11 +16,11 @@ by using HTML and CSS the web pages can be created:
 #### code in html:
 the codes od the html file is made up with elements, each of element have oppining and closing tag.
 ther are a lot of elememts in html, but the most of the web page will have the following ones:
-- <html>
-- <head>
-- <body>
-- <main>
-- <footer>
+- html
+- head
+- body
+- main
+- footer
  
  **there are a various version of html:**
 1. html
