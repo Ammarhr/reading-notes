@@ -14,6 +14,7 @@ by using HTML and CSS the web pages can be created:
  in **html** we use tags. tow tags (oppining tag<p> and the closing tag</p>) make up an element.
  every element have Attributes that give more informations of thid element _evrey Attributes have aname and value_ . 
 #### code in html:
+<<<<<<< HEAD
 the codes od the **html** file is made up with elements, each of element have oppining and closing tag.
 ther are a lot of elememts in html, but the most of the web page will have the following ones:
 - <html></html>
@@ -21,6 +22,15 @@ ther are a lot of elememts in html, but the most of the web page will have the f
 - <body></body>
 - <main></main>
 - <footer></footer>
+=======
+the codes od the html file is made up with elements, each of element have oppining and closing tag.
+ther are a lot of elememts in html, but the most of the web page will have the following ones:
+- html
+- head
+- body
+- main
+- footer
+>>>>>>> 9274561d30845be29fc04e41b9d510ab15808e71
  
  **there are a various version of html:**
 1. html
