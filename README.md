@@ -7,7 +7,7 @@
 
 |__the read__  | __the Links__|
 | ------------ | ------------:|
-|   read 01    | [read01]()   |
+|   read 01    | [read01](https://github.com/Ammarhr/reading-notes/blob/master/calss-01.md)   |
 |   read 02    | [read02]()   |
 |   read 03    | [read03]()   |
 |   read 04    | [read04]()   |
