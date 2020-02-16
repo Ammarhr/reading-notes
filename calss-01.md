@@ -17,19 +17,23 @@ by using HTML and CSS the web pages can be created:
 <<<<<<< HEAD
 the codes od the **html** file is made up with elements, each of element have oppining and closing tag.
 ther are a lot of elememts in html, but the most of the web page will have the following ones:
+```
 - <html></html>
 - <head></head>
 - <body></body>
 - <main></main>
 - <footer></footer>
+```
 =======
 the codes od the html file is made up with elements, each of element have oppining and closing tag.
 ther are a lot of elememts in html, but the most of the web page will have the following ones:
-- html
-- head
-- body
-- main
-- footer
+```
+- <html>
+- <head>
+- <body>
+- <main>
+- <footer>
+```
 >>>>>>> 9274561d30845be29fc04e41b9d510ab15808e71
  
  **there are a various version of html:**
