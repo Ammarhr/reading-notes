@@ -31,6 +31,18 @@ The **functions** is a set of statement grouped togother to use it in multible t
 ```
 upDate() 
  ```
+ ## Pair Programming:
+in usuale Pair Programming works with tow main role:  
+1. the Driver: the programmer whose typing the code and deal with the text editors.
+2. the Navigator: the programmer whose give the directions and the instructions and doesn't inter direct code.
+
+### Advantages of Pair Programming:
+thiere are many advantages, like:
+- inshort the time of coding.
+- the experience exchang between both of programmer.
+- finde different way to solving problems.
+- improving the social skills
+
  
  
 
