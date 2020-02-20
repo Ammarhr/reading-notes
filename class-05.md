@@ -4,7 +4,7 @@ we can add an image to our web site by the element ```<img>```
 ```<img>``` always followed by the attribute ```src``` that detrmaine the surce of the image.
 and ``alt`` attribute to add a describtion of the image.
 
-### Images size and format: 
+### Images size and format:
 Every image have the own size(width and height).
 we shuold save the image that we want to use in the same size we want to use in the page to avoid loosing its quality.
 we must choose the appropriate foarmat to suite with our site. ex: we choose JPGE if our photo have a lot of colors, and GIF & PNG for logos.
