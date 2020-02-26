@@ -12,7 +12,7 @@ There is one global execution context; plus, each function creates a new new exe
 
 - **VARIABLE SCOPE**: The first two execution contexts correspond with the notion of scope .
 
----------------------
+----------------------
 ### Stack:
 the javas interpreter procecesses one line of code at a time. when a statement needs data from another function, it stacks or piles the new function on top of the current task
 
