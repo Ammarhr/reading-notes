@@ -10,6 +10,9 @@ With **Css** we can cotrol the presentation of the images.
 one of the most use of images in the web is using image background for an elements boxes in the web page.
 We can contole if we want to repeat the image or not using **backgroun-repeat** property.
 
+## vedio and Audio Elements:
+In **HTML5** you can add a **video** and **audio** to you web page with ``<vedio>`` and ``<audio>`` Tags. and you can controlling its place and appearance in Css:
+ 
 
 ## Search Engine Optimization (SEO):
 **SEO**  is the practice of trying to help your site appear nearer the top of search engine results when people look for the topics that your website covers. in short: **SEO** helps the  users to find your web site.
