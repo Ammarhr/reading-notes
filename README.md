@@ -17,10 +17,11 @@
 |   read 08    | [read08](https://github.com/Ammarhr/reading-notes/blob/master/class-08.md)   |
 |   read 09    | [read09](https://github.com/Ammarhr/reading-notes/blob/master/class-09.md)   |
 |   read 10    | [read10](https://github.com/Ammarhr/reading-notes/blob/master/class-10.md)   |
-|   read 11    | [read11]()   |
-|   read 12    | [read12]()   |
-|   read 13    | [read13]()   |
-|   read 14    | [read14]()   |
+|   read 11    | [read11](https://github.com/Ammarhr/reading-notes/blob/master/class-11.md)   |
+|   read 12    | [read12](https://github.com/Ammarhr/reading-notes/blob/master/class-12.md)   |
+|   read 13    | [read13](https://github.com/Ammarhr/reading-notes/blob/master/class-13.md)   |
+|   read 14    | [read14-a]()   |
+|   read 14    | [read14-b]()   |
 |   read 15    | [read15]()   |
 
 
