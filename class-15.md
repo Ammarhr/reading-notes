@@ -1,0 +1,25 @@
+## Silicon Valley Study for Team Working:
+....
+
+In Silicon Valley, software engineers are encouraged to work together, in part because studies show that groups tend to innovate faster, see mistakes more quickly and find better solutions to problems. Studies also show that people working in teams tend to achieve better results and report higher job satisfaction. In a 2015 study, executives said that profitability increases when workers are persuaded to collaborate more. Within companies and conglomerates, as well as in government agencies and schools, teams are now the fundamental unit of organization. If a company wants to outstrip its competitors, it needs to influence not only how people work but also how they work together.
+
+------------------
+ The company’s top executives long believed that building the best teams meant combining the best people. They embraced other bits of conventional wisdom as well, like ‘‘It’s better to put introverts together,’’ said Abeer Dubey, a manager in Google’s People Analytics division, or ‘‘Teams are more effective when everyone is friends away from work.’’ But, Dubey went on, ‘‘it turned out no one had really studied which of those were true.’’
+
+---------------
+ What interested the researchers most, however, was that teams that did well on one assignment usually did well on all the others. Conversely, teams that failed at one thing seemed to fail at everything. The researchers eventually concluded that what distinguished the ‘‘good’’ teams from the dysfunctional groups was how teammates treated one another. The right norms, in other words, could raise a group’s collective intelligence, whereas the wrong norms could hobble a team, even if, individually, all the members were exceptionally bright.
+
+But what was confusing was that not all the good teams appeared to behave in the same ways. ‘‘Some teams had a bunch of smart people who figured out how to break up work evenly,’’ said Anita Woolley, the study’s lead author. ‘‘Other groups had pretty average members, but they came up with ways to take advantage of everyone’s relative strengths. Some groups had one strong leader. Others were more fluid, and everyone took a leadership role.’’
+
+As the researchers studied the groups, however, they noticed two behaviors that all the good teams generally shared. First, on the good teams, members spoke in roughly the same proportion, a phenomenon the researchers referred to as ‘‘equality in distribution of conversational turn-taking.’’ On some teams, everyone spoke during each task; on others, leadership shifted among teammates from assignment to assignment. But in each case, by the end of the day, everyone had spoken roughly the same amount. ‘‘As long as everyone got a chance to talk, the team did well,’’ Woolley said. ‘‘But if only one person or a small group spoke all the time, the collective intelligence declined.’’
+
+----------------
+Second, the good teams all had high ‘‘average social sensitivity’’ — a fancy way of saying they were skilled at intuiting how others felt based on their tone of voice, their expressions and other nonverbal cues. One of the easiest ways to gauge social sensitivity is to show someone photos of people’s eyes and ask him or her to describe what the people are thinking or feeling — an exam known as the Reading the Mind in the Eyes test. People on the more successful teams in Woolley’s experiment scored above average on the Reading the Mind in the Eyes test. They seemed to know when someone was feeling upset or left out. People on the ineffective teams, in contrast, scored below average. They seemed, as a group, to have less sensitivity toward their colleagues.
+
+---------------------------
+In other words, if you are given a choice between the serious-minded Team A or the free-flowing Team B, you should probably opt for Team B. Team A may be filled with smart people, all optimized for peak individual efficiency. But the group’s norms discourage equal speaking; there are few exchanges of the kind of personal information that lets teammates pick up on what people are feeling or leaving unsaid. There’s a good chance the members of Team A will continue to act like individuals once they come together, and there’s little to suggest that, as a group, they will become more collectively intelligent.
+
+----------------------------------------------
+>> ### Summary:
+>>The measure that determines the success of the teams, is not the amount of intelligence and leadership of individuals, on the contrary, this matter may be one of the obstacles to the success of the team. Conflict of ideas and struggle for leadership have caused problems in the team, and average individuals may be neutralized from any support they might give to the team.
+The most important thing for the team is the spirit of cooperation between individuals, and contribute in an equal manner by presenting ideas and sharing them. This will result in the maximum benefit from all the strengths of the team members, and this will give a wider scope for success in the tasks presented to the team.

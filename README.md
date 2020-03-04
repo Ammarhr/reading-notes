@@ -20,8 +20,7 @@
 |   read 11    | [read11](https://github.com/Ammarhr/reading-notes/blob/master/class-11.md)   |
 |   read 12    | [read12](https://github.com/Ammarhr/reading-notes/blob/master/class-12.md)   |
 |   read 13    | [read13](https://github.com/Ammarhr/reading-notes/blob/master/class-13.md)   |
-|   read 14    | [read14-a]()   |
-|   read 14    | [read14-b]()   |
+|   read 14    | [read14-a](https://github.com/Ammarhr/reading-notes/blob/master/class-14a.md)   |
 |   read 15    | [read15]()   |
 
 
